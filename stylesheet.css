@@ -1,0 +1,43 @@
+.border {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 5px solid red;
+    margin: 10px;
+    padding: 10px;
+}
+
+.border2 {
+    background-color: rgb(46, 100, 88);
+    color: white;
+    border: 5px solid rgb(72, 40, 40);
+    margin: 10px;
+    padding: 10px;
+}
+
+#p1 {
+    padding: auto;
+    text-align: left;
+    color: rgb(0, 179, 255);
+    font-size: 20px;
+}
+
+#p2 {
+    padding: auto;
+    text-align: left;
+    color: rgb(68, 255, 0);
+    font-size: 20px;
+}
+
+#p3{
+    padding: auto;
+    text-align: left;
+    color: rgb(255, 0, 153);
+    font-size: 20px;
+}
+
+h1 {
+    color: rgb(64, 136, 84)
+}
+
+a { color: #00ffd5; } /* CSS link color (red) */
+a:hover { color: #ff00d4; } /* CSS link hover (green) */
